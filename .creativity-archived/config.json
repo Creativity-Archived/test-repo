@@ -1,0 +1,19 @@
+{
+  "isDownloadable": "yes",
+  "isOpenSource": "yes",
+  "canMessWithComputer": "no",
+  "license": "MIT",
+  
+  "hasGithub": "yes",
+  "hasWebsite": "yes",
+  "hasDiscord": "yes",
+  
+  "title": "Creativity Archived",
+  "description": "No bullshit. Just cool shit.",
+  "madeBy": "Daveberry Cricket Blueson",
+  
+  "githubURL": "https://github.com/creativity-archived",
+  "discordURL": "https://discord.gg/wGWgPcU52u",
+  "websiteURL": "https://creativity-archived.pages.dev",
+  "madeByURL": "https://daveberry.netlify.app/"
+}

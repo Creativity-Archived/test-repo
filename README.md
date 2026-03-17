@@ -2,7 +2,6 @@
 This repo is a test for a new feature being added where it would read [.creativity-archived](.creativity-archived) folder for [banner.png](.creativity-archived/banner.png), [config.json](.creativity-archived/config.json), [logo.png](.creativity-archived/logo.png) and [readme.md](.creativity-archived/readme.md).
 
 ## Configuration? ([config.json](.creativity-archived/config.json))
-- `isDownloadable` > If it's downloadable, the download button would show up.
 - `isOpenSource` > If it's open source, the tag will show if it is or not. (yes/no)
 - `canMessWithComputer` > If it messes with your computer, it will show if it is or not. (yes/no)
 - `license` > What license your project uses

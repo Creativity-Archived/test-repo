@@ -1,5 +1,4 @@
 {
-  "isDownloadable": "yes",
   "isOpenSource": "yes",
   "canMessWithComputer": "no",
   "license": "MIT",
@@ -8,16 +7,13 @@
   "type": "Website",
   "whatType": "Sharing Games",
   
-  "hasGithub": "yes",
-  "hasWebsite": "yes",
-  "hasDiscord": "yes",
-  
   "title": "Creativity Archived",
   "description": "No bullshit. Just cool shit.",
   "madeBy": "Daveberry Cricket Blueson",
   
+  "downloadURL": "",
   "githubURL": "https://github.com/creativity-archived",
-  "discordURL": "https://discord.gg/wGWgPcU52u",
+  "discordURL": "https://discord.gg/VQBDWSSnRA",
   "websiteURL": "https://creativity-archived.pages.dev",
-  "madeByURL": "https://daveberry.netlify.app/"
+  "madeByURL": "https://codedave.pages.dev/"
 }

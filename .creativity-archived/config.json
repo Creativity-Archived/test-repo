@@ -4,6 +4,9 @@
   "canMessWithComputer": "no",
   "license": "MIT",
   
+  "type": "Website",
+  "whatType": "Sharing Games",
+  
   "hasGithub": "yes",
   "hasWebsite": "yes",
   "hasDiscord": "yes",

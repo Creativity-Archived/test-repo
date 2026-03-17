@@ -3,7 +3,7 @@
   "isOpenSource": "yes",
   "canMessWithComputer": "no",
   "license": "MIT",
-  "NSFW": "yes",
+  "NSFW": "no",
   
   "type": "Website",
   "whatType": "Sharing Games",
